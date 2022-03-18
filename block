@@ -13,7 +13,7 @@
     
     
     <title>pagetags | Xenos</title>
-    <link href="http://example.com" rel="prefetch" />
+    <link href="https://xenos3214.github.io" rel="prefetch" />
 
     
 <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -80,7 +80,7 @@
                     aria-expanded="false">
                 <span class="fa fa-lg fa-reorder"></span>
             </button>
-            <a href="http://example.com">
+            <a href="https://xenos3214.github.io">
                 
                 <style>
                     #gal-header .navbar-brand {
@@ -128,7 +128,7 @@
                 
                 
                 
-                <li class="current">
+                <li class="">
                     <a href="/tags">
                         <i class="fa fa-tags"></i>标签
                     </a>
@@ -156,7 +156,7 @@
 <article class="article well article-body" id="article">
     <div class="breadcrumb">
         <i class="fa fa-home"></i>
-        <a href="http://example.com">Xenos</a>
+        <a href="https://xenos3214.github.io">Xenos</a>
         >
         <span>pagetags</span>
     </div>
@@ -164,7 +164,7 @@
     <div class="hidden-xs">
         <div class="title-article">
             <h1>
-                <a href="/2022/03/18/pagetags/">pagetags</a>
+                <a href="/block">pagetags</a>
             </h1>
         </div>
         <div class="tag-article">
@@ -180,7 +180,7 @@
         <center>
             <div class="title-article">
                 <h4>
-                    <a href="/2022/03/18/pagetags/">pagetags</a>
+                    <a href="/block">pagetags</a>
                 </h4>
             </div>
             <p>
@@ -255,13 +255,13 @@
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/2022/03/18/hello-world/">Hello World</a>
+                    <a href="/block">Hello World</a>
                 </span>
             </li>
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/2022/03/18/pagetags/">pagetags</a>
+                    <a href="/block">pagetags</a>
                 </span>
             </li>
             
@@ -283,13 +283,13 @@
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/2022/03/18/pagetags/">pagetags</a>
+                    <a href="/block">pagetags</a>
                 </span>
             </li>
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/2022/03/18/hello-world/">Hello World</a>
+                    <a href="/block">Hello World</a>
                 </span>
             </li>
             
@@ -304,17 +304,17 @@
 
                 
                 <li>
-                    <a href="/2022/03/18/pagetags/index.html#sidebar-tags" data-toggle="tab" id="tags-tab">热门标签</a>
+                    <a href="/block#sidebar-tags" data-toggle="tab" id="tags-tab">热门标签</a>
                 </li>
                 
                 
                 <li>
-                    <a href="/2022/03/18/pagetags/index.html#sidebar-friend-links" data-toggle="tab" id="friend-links-tab">友情链接</a>
+                    <a href="/block#sidebar-friend-links" data-toggle="tab" id="friend-links-tab">友情链接</a>
                 </li>
                 
                 
                 <li>
-                    <a href="/2022/03/18/pagetags/index.html#sidebar-links" data-toggle="tab" id="links-tab">个人链接</a>
+                    <a href="/block#sidebar-links" data-toggle="tab" id="links-tab">个人链接</a>
                 </li>
                 
             </ul>
