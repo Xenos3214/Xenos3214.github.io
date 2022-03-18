@@ -164,7 +164,7 @@
     <div class="hidden-xs">
         <div class="title-article">
             <h1>
-                <a href="/block">pagetags</a>
+                <a href="/xenos3214.github.io">pagetags</a>
             </h1>
         </div>
         <div class="tag-article">
@@ -180,7 +180,7 @@
         <center>
             <div class="title-article">
                 <h4>
-                    <a href="/block">pagetags</a>
+                    <a href="/xenos3214.github.io">pagetags</a>
                 </h4>
             </div>
             <p>
@@ -255,13 +255,13 @@
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/block">Hello World</a>
+                    <a href="/xenos3214.github.io">Hello World</a>
                 </span>
             </li>
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/block">pagetags</a>
+                    <a href="/xenos3214.github.io">pagetags</a>
                 </span>
             </li>
             
@@ -283,13 +283,13 @@
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/block">pagetags</a>
+                    <a href="/xenos3214.github.io">pagetags</a>
                 </span>
             </li>
             
             <li class="list-group-item">
                 <span class="post-title">
-                    <a href="/block">Hello World</a>
+                    <a href="/xenos3214.github.io">Hello World</a>
                 </span>
             </li>
             
@@ -304,17 +304,17 @@
 
                 
                 <li>
-                    <a href="/block#sidebar-tags" data-toggle="tab" id="tags-tab">热门标签</a>
+                    <a href="/xenos3214.github.io#sidebar-tags" data-toggle="tab" id="tags-tab">热门标签</a>
                 </li>
                 
                 
                 <li>
-                    <a href="/block#sidebar-friend-links" data-toggle="tab" id="friend-links-tab">友情链接</a>
+                    <a href="/xenos3214.github.io#sidebar-friend-links" data-toggle="tab" id="friend-links-tab">友情链接</a>
                 </li>
                 
                 
                 <li>
-                    <a href="/block#sidebar-links" data-toggle="tab" id="links-tab">个人链接</a>
+                    <a href="/xenos3214.github.io#sidebar-links" data-toggle="tab" id="links-tab">个人链接</a>
                 </li>
                 
             </ul>
